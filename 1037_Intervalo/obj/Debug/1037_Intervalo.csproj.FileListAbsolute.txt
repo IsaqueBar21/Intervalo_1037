@@ -1,0 +1,7 @@
+C:\CURSOS\C#\projetos\1037_Intervalo\1037_Intervalo\bin\Debug\1037_Intervalo.exe.config
+C:\CURSOS\C#\projetos\1037_Intervalo\1037_Intervalo\bin\Debug\1037_Intervalo.exe
+C:\CURSOS\C#\projetos\1037_Intervalo\1037_Intervalo\bin\Debug\1037_Intervalo.pdb
+C:\CURSOS\C#\projetos\1037_Intervalo\1037_Intervalo\obj\Debug\1037_Intervalo.csproj.AssemblyReference.cache
+C:\CURSOS\C#\projetos\1037_Intervalo\1037_Intervalo\obj\Debug\1037_Intervalo.csproj.CoreCompileInputs.cache
+C:\CURSOS\C#\projetos\1037_Intervalo\1037_Intervalo\obj\Debug\1037_Intervalo.exe
+C:\CURSOS\C#\projetos\1037_Intervalo\1037_Intervalo\obj\Debug\1037_Intervalo.pdb
